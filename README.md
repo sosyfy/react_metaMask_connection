@@ -1,14 +1,7 @@
 #react_metaMask_connection
 
-## Create react app
-$ create-react-app metamask_conn
-$ cd metamask_conn
-$ npm start
-
 ## Install ethers in project folder
-$npm install --save ethers
-
-
+npm install --save ethers
 
 
 # Getting Started with Create React App
