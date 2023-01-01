@@ -1,5 +1,4 @@
 #react_metaMask_connection
-// https://docs.metamask.io/guide/ethereum-provider.html#using-the-provider
 
 ## Create react app
 $ create-react-app metamask_conn
